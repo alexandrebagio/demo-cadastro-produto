@@ -1,0 +1,10 @@
+{
+  "data": "2026-11-17",
+  "testes_dominio": 16,
+  "testes_dominio_aprovados": 16,
+  "verificacoes_navegador": 12,
+  "excecoes_javascript": 0,
+  "build_producao": "OK",
+  "html_portatil": "Testado via file://",
+  "backend_real": false
+}
